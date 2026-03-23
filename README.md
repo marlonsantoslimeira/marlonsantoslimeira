@@ -70,7 +70,7 @@ Plataforma de jogos multi-cloud com AWS e Azure. Responsável pela **otimizaçã
 | Curso | Instituição | Ano |
 |---|---|---|
 | Pós-graduação — Arquitetura de Sistemas .NET | FIAP + Alura + PM3 | 2025 |
-| Análise e Desenvolvimento de Sistemas | — | — |
+| Análise e Desenvolvimento de Sistemas | UNINOVE | 2024 |
 
 ---
 
